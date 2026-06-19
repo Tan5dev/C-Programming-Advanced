@@ -2,13 +2,14 @@
 
 Welcome to the Advanced C Programming Repository.
 
-If you've completed the basics of C, this repository will take you to the next level and help you understand how real-world C programs work.
+This repository is a continuation of my Basic C Programming journey.
 
-## 📚 What You'll Learn
+## 📚 Topics Covered
 
 - Pointers
 - Dynamic Memory Allocation
-- Structures & Unions
+- Structures
+- Unions
 - File Handling
 - Function Pointers
 - Header Files
@@ -20,25 +21,20 @@ If you've completed the basics of C, this repository will take you to the next l
 
 ## 🎯 Goal
 
-By the end of this repository, you will be able to:
+Master Advanced C and prepare for:
+- Data Structures
+- Competitive Programming
+- System Programming
+- C++
+- Software Development
 
-✔ Build complex C programs  
-✔ Understand memory management  
-✔ Create data structures  
-✔ Work with files  
-✔ Write efficient code  
-✔ Prepare for C++, Java, DSA and System Programming
+## 📈 Progress
 
-## 📈 Learning Path
+- [ ] Pointers
+- [ ] Dynamic Memory
+- [ ] Structures
+- [ ] File Handling
+- [ ] Data Structures
+- [ ] Projects
 
-Basic C → Advanced C → Data Structures → Projects → Development
-
-## ⭐ Support
-
-If this repository helps you:
-
-- Star the repository ⭐
-- Fork it 🍴
-- Share it with friends 🚀
-
-Happy Coding!
+⭐ Star this repository if it helps you.
