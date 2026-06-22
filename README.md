@@ -63,8 +63,9 @@ advanced-c-programming/
 ├── 08-Bitwise-Programming/
 ├── 09-Multifile-Projects/
 └── Projects/
+
 ---
 
-# Comiple and Run
+## Comiple and Run
 gcc program.c -o program
 ./program
