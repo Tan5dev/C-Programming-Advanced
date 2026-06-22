@@ -1,40 +1,35 @@
-# 🚀 Advanced C Programming
+# Advanced C Programming
 
-Welcome to the Advanced C Programming Repository.
+A comprehensive collection of advanced C programming concepts, data structures, algorithms, and real-world projects.
 
-This repository is a continuation of my Basic C Programming journey.
+## Topics Covered
 
-## 📚 Topics Covered
-
-- Pointers
+- Pointers & Pointer Arithmetic
 - Dynamic Memory Allocation
-- Structures
-- Unions
+- Structures & Unions
 - File Handling
-- Function Pointers
-- Header Files
-- Command Line Arguments
 - Data Structures
-- Searching Algorithms
-- Sorting Algorithms
-- Mini Projects
-
-## 🎯 Goal
-
-Master Advanced C and prepare for:
-- Data Structures
-- Competitive Programming
+- Algorithms
+- Bit Manipulation
+- Preprocessor Directives
+- Multi-file Projects
 - System Programming
-- C++
-- Software Development
 
-## 📈 Progress
+## Projects
 
-- [ ] Pointers
-- [ ] Dynamic Memory
-- [ ] Structures
-- [ ] File Handling
-- [ ] Data Structures
-- [ ] Projects
+- Banking System
+- Library Management System
+- Contact Book
+- Mini Shell
 
-⭐ Star this repository if it helps you.
+## Requirements
+
+- GCC Compiler
+- VS Code / CodeBlocks
+- Linux or Windows
+
+## Compile
+
+```bash
+gcc program.c -o program
+./program
