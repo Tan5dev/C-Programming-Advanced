@@ -1,7 +1,7 @@
 # 🚀 Advanced C Programming
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Tan5dev/advanced-c-programming?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/Tan5dev/advanced-c-programming?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Learning-success?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge)
 
 > 📚 A complete collection of Advanced C Programming concepts, Data Structures, Algorithms, and Real-World Projects.
