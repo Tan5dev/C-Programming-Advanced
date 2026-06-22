@@ -63,9 +63,23 @@ advanced-c-programming/
 ├── 08-Bitwise-Programming/
 ├── 09-Multifile-Projects/
 └── Projects/
+```
 
 ---
 
-## Comiple and Run
+## 🛠️ Compile and Run
+
+```bash
 gcc program.c -o program
 ./program
+```
+
+---
+
+## ⭐ Support
+
+If you find this repository useful, consider giving it a ⭐.
+
+## 👨‍💻 Author
+
+**Tanmay Pathe**
