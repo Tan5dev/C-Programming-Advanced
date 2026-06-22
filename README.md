@@ -1,35 +1,69 @@
-# Advanced C Programming
+# 🚀 Advanced C Programming
 
-A comprehensive collection of advanced C programming concepts, data structures, algorithms, and real-world projects.
+![GitHub Repo stars](https://img.shields.io/github/stars/Tan5dev/advanced-c-programming?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/Tan5dev/advanced-c-programming?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge)
 
-## Topics Covered
+> 📚 A complete collection of Advanced C Programming concepts, Data Structures, Algorithms, and Real-World Projects.
 
-- Pointers & Pointer Arithmetic
-- Dynamic Memory Allocation
-- Structures & Unions
-- File Handling
-- Data Structures
-- Algorithms
-- Bit Manipulation
-- Preprocessor Directives
-- Multi-file Projects
-- System Programming
+---
 
-## Projects
+## 📌 Topics Covered
 
-- Banking System
-- Library Management System
-- Contact Book
-- Mini Shell
+### 🔹 Pointers
+- Pointer Basics
+- Pointer Arithmetic
+- Double Pointers
+- Function Pointers
 
-## Requirements
+### 🔹 Memory Management
+- malloc()
+- calloc()
+- realloc()
+- free()
 
-- GCC Compiler
-- VS Code / CodeBlocks
-- Linux or Windows
+### 🔹 Structures & Unions
+- Nested Structures
+- Typedef
+- Unions
 
-## Compile
+### 🔹 File Handling
+- Text Files
+- Binary Files
+- File Operations
 
-```bash
+### 🔹 Data Structures
+- Linked List
+- Stack
+- Queue
+- Trees
+
+### 🔹 Algorithms
+- Sorting
+- Searching
+- Recursion
+
+### 🔹 Bit Manipulation
+- Bitwise Operators
+- Binary Operations
+
+---
+
+## 📂 Repository Structure
+
+```text
+advanced-c-programming/
+├── 01-Pointers/
+├── 02-Memory-Management/
+├── 03-Structures/
+├── 04-File-Handling/
+├── 05-Data-Structures/
+├── 06-Algorithms/
+├── 07-Preprocessor/
+├── 08-Bitwise-Programming/
+├── 09-Multifile-Projects/
+└── Projects/
+
+# Comiple and Run
 gcc program.c -o program
 ./program
